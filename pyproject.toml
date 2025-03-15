@@ -1,0 +1,13 @@
+[project]
+name = "gesturecontroledppt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "cvzone>=1.6.1",
+    "mediapipe>=0.10.21",
+    "psutil>=7.0.0",
+    "pyautogui>=0.9.54",
+    "rich>=13.9.4",
+]
